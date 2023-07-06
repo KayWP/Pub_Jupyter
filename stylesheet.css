@@ -1,9 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <link rel="stylesheet" type="text/css" href="styles.css">
-</head>
-<body>
-  <!-- Your HTML content here -->
-</body>
-</html>
+/* CSS File */
+/* Select all title elements and set the color to red */
+title {
+  color: red;
+}
