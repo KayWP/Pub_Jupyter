@@ -1,5 +1,5 @@
 /* CSS File */
-/* Select all title elements and set the color to red */
-title {
+/* Select all h1 elements and set the color to red */
+h1 {
   color: red;
 }
